@@ -49,7 +49,10 @@ java -cp .;bin;sqlite-jdbc.jar Main
 ```
 
 ## 📌 Screenshots  
-![Inventory Management System](assets/screenshot.png)  
+
+
+![Inventory Management System]((https://github.com/user-attachments/assets/e5515ddc-451b-4dfe-93d2-71bef16f2a53)
+)  
 
 ## 🛠️ Future Improvements  
 🔹 **Enhance UI with CSS-like styling**  
